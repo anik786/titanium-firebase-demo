@@ -5,7 +5,7 @@ An cross-platform sample application demonstrating how to use the [titanium-fire
 ## Requirements
 
 - **iOS**: Download the GoogleConfig-Info.plist from your project and copy it to `Resources` (classic) or `app/assets/iphone` (Alloy)
-- **Android**: Download the google-services.json and copy it to `Resources` (classic) or `app/assets/iphone` (Alloy)
+- **Android**: Download the google-services.json and copy it to `Resources` (classic) or `app/assets/android` (Alloy)
 -  Ensure the `titanium-firebase` modules are either installed globally or in your `<project-dir>/modules` directory
 
 ## Contents
